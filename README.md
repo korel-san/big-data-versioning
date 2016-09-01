@@ -1,2 +1,10 @@
-# big-data-versioning
-Big Data Versioning on MongoDB for #Kharkivjs 2016
+# Presentation of Big Data Versioning for MongoDB
+
+```
+git clone git@github.com:korel-san/presentation-big-data-versioning.git
+cd presentation-big-data-versioning
+npm i
+gulp
+```
+
+#Kharkivjs 2016
