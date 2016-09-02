@@ -1,4 +1,4 @@
-# Presentation of Big Data Versioning for MongoDB
+# Presentation of Data Versioning for MongoDB
 
 ```
 git clone git@github.com:korel-san/presentation-big-data-versioning.git
@@ -7,4 +7,4 @@ npm i
 gulp
 ```
 
-#Kharkivjs 2016
+Kharkivjs 2016
