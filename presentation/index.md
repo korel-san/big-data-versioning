@@ -1,4 +1,4 @@
-name: inverse
+name: introduce
 layout: true
 class: center, middle, inverse
 ---
@@ -16,6 +16,7 @@ class: center, middle, inverse
 
 ---
 
+name: goal-statement
 template: inverse
 # Goal statement
 ### Aggregation, visualization, analyzing, using and understanding of statistics and other information about social, economic and environmental development at the local, national and global levels.
@@ -23,13 +24,14 @@ template: inverse
 
 ---
 
+name: gapminder-world
 template: inverse
 ![](images/GWM2010.png)
 
 ---
 
+name: goal-description
 template: inverse
-name: goal-page
 
 # The goal shall be achieved by:
 &nbsp;
