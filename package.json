@@ -1,5 +1,5 @@
 {
-  "name": "presentation-big-data-versioning",
+  "name": "presentation-data-versioning",
   "version": "1.0.0",
   "description": "",
   "main": "gulp",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/korel-san/presentation-big-data-versioning"
+    "url": "https://github.com/korel-san/presentation-data-versioning"
   },
   "author": "korery@gmail.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/korel-san/presentation-big-data-versioning/issues"
+    "url": "https://github.com/korel-san/presentation-data-versioning/issues"
   },
-  "homepage": "https://github.com/korel-san/presentation-big-data-versioning",
+  "homepage": "https://github.com/korel-san/presentation-data-versioning",
   "devDependencies": {
     "connect": "^3.3.3",
     "gulp": "^3.8.10",
