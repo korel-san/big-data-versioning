@@ -130,7 +130,7 @@ code {
     bottom: 4em;
 }
 
-#slide-gapminder-world img {
+#slide-gapminder-world img, #slide-standards img {
     width: 100%;
 }
 
