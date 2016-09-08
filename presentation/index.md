@@ -35,7 +35,7 @@ template: inverse
 #### units of measurement: `items, thousands, millions`
 #### interpretations (specific terms): `MDG region`, `IncSharU`, `IncDefn`
 
-Not saying about different languages in which this data can be present
+Not saying about different languages in which this data can be presented
 ---
 
 name: statistic-issues
