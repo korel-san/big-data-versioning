@@ -21,12 +21,12 @@ template: inverse
 &nbsp;
 #### world-development-indicators
 #### unicef
-
+??? we need logos and a bit of explanations of those
 ---
 
 name: datasets-differences
 template: inverse
-## Appreciable differences between
+## ~~Appreciable~~ Huge differences between
 &nbsp;
 #### file extensions: xls, csv, json, xml, ...
 #### file names: `Cause of death 2015_218f339.xlsx`, `WEOApr2015all.xls`
@@ -35,6 +35,7 @@ template: inverse
 #### units of measurement: `items, thousands, millions`
 #### interpretations (specific terms): `MDG region`, `IncSharU`, `IncDefn`
 
+Not saying about different languages in which this data can be present
 ---
 
 name: statistic-issues
