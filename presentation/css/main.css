@@ -106,6 +106,16 @@ code {
     padding: 15px;
 }
 
+.white {
+    background: #ffffff !important;
+}
+
+.white h1, .white h2, .white h3, .white h4 {
+    color: #272822 !important;
+    line-height: 1.4em;
+    text-shadow: none !important;
+}
+
 .inverse {
     background: #272822;
     color: #777872;
@@ -123,15 +133,47 @@ code {
     width: 35%;
 }
 
+#slide-data-providers img {
+    padding-top: 25px;
+    display: block;
+    margin: 0 auto;
+}
+
+
+#slide-data-providers img {
+    width: 50%;
+}
+
+#slide-data-providers img:first-child {
+    width: 35%;
+}
+
+#slide-data-providers img:last-child {
+    width: 80%;
+}
+
+#slide-datasets-differences ul {
+    text-align: left;
+}
+
+#slide-datasets-differences .remark-code, .remark-inline-code {
+    padding: 0 4px;
+}
+
+#slide-ddf-example img {
+    width: 100%;
+}
+
+#slide-gapminder-world img, #slide-standards img {
+    width: 100%;
+}
+
+
 #slide-goal-statement img {
     width: 35%;
     position: absolute;
     right: 3em;
     bottom: 4em;
-}
-
-#slide-gapminder-world img, #slide-standards img {
-    width: 100%;
 }
 
 #slide-goal-description ul > li {
@@ -144,6 +186,9 @@ code {
     right: 4em;
 }
 
+#slide-dependency-graph img {
+    width: 75%;
+}
 /*** END Slide-specific styling */
 
 /* Two-column layout */
